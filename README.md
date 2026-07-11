@@ -1,16 +1,16 @@
-# dawinadmin
+# Dawini Admin App
 
-A new Flutter project.
+> **Legacy Flutter companion app.** This repository is an earlier administrative/mobile codebase retained for development history, not an actively maintained product.
 
-## Getting Started
+## Status
 
-This project is a starting point for a Flutter application.
+The project may require current dependency, Firebase, and environment configuration before running. It is intentionally not featured as a current portfolio sample.
 
-A few resources to get you started if this is your first Flutter project:
+## Local exploration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For current mobile products and verified screens, visit [akoding.dev](https://akoding.dev).
